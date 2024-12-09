@@ -2,14 +2,8 @@ import css from './RightPart.module.css';
 
 const RightPart = () => {
   return (
-      <div className={css.container}>
-          <div>
-              <img
-              src="../../assets/images/8870b683-e6c5-4940-8f38-f5469690b2bdBase64.JPG"
-              alt="Photo"
-              width= "672"
-              className={css.styles_photo} />
-          </div>
+      <div className={css.rightPart}>
+          <div className={css.image_rightPart}></div>
           
           <button
               type='button'

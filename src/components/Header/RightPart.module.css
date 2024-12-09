@@ -1,0 +1,8 @@
+.image_rightPart {
+    width: 672px;
+    height: 491px;
+    background-image: url(../../assets/images/hero_min.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
