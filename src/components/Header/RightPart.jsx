@@ -1,5 +1,5 @@
 import css from './RightPart.module.css';
-import Photo from '../../assets/images/hero_min.jpg'
+import Photo from '../../assets/images/hero_min.jpg';
 
 const RightPart = () => {
   return (
