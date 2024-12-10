@@ -1,0 +1,12 @@
+.container_header {
+    width: 1440px;
+    margin: 0 auto;
+}
+
+.parts {
+    max-width: 1440px;
+    display: flex;
+    justify-content: space-between;
+    width: 1440px;
+    margin: 0 auto;
+}

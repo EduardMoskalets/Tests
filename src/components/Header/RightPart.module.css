@@ -1,0 +1,22 @@
+.rightPart {
+    max-width: 672px;
+    height: 504px;
+    padding-top: 108px;
+    padding-right: 48px;
+
+}
+
+.image_rightPart {
+    margin-bottom: 25px;
+
+}
+
+.btn_rightPart {
+    border: 2px solid #000;
+    border-radius: 9999px;
+    width: 212px;
+    height: 64px;
+
+    background: #fff;
+    margin-left: 420px;
+}
