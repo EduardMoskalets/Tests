@@ -1,0 +1,28 @@
+.usedByContainer {
+    width: 1440px;
+    margin: 0 auto;
+    height: 428px;
+}
+
+.text_usedBy {
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    text-transform: uppercase;
+    color: #000;
+
+    margin-top: 96px;
+}
+
+.container_text{
+    padding-left: 48px;
+}
+
+.containerImg {
+    height: 308px;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
