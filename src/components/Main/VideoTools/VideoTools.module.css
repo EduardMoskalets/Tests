@@ -1,0 +1,19 @@
+.videoToolsContainer {
+    width: 1440px;
+    margin: 0 auto;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+
+.textPart {
+    width: 441px;
+    height: 616px;
+}
+
+.videoPart {
+    width: 883px;
+    height: 616px;
+}
