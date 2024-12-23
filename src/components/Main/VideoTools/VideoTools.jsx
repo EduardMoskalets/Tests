@@ -10,12 +10,22 @@ const VideoTools = () => {
           <div className={css.bodyPart}>
               <div className={css.textPart}>
           <div>
-              <h3>Introducing Green Screen</h3>
-              <p>A professional grade tool for cutting objects out of videos with just one click.
+            <div><h3 className={css.leftText}>Introducing Green Screen</h3></div>
+
+            <div>     
+            <div className={css.textContainerOne}>
+                <p className={css.aboutTextOne}>A professional grade tool for cutting objects out of videos with just one click.
                   All from inside your browser.
-              </p>
-              <p>Say goodbye to clumsy plug-ins and expensive software suites.</p>
-              <button type='button'>Try Green Screen</button>
+              </p></div>
+
+            <div className={css.textContainerTwo}>         
+            <p className={css.aboutTextTwo}>
+                Say goodbye to clumsy plug-ins and expensive software suites.
+            </p>
+            </div> 
+                          
+                <button type='button' className={css.btn}>Try Green Screen</button>
+            </div>
           </div>
           </div>
 
