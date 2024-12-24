@@ -1,0 +1,40 @@
+.getStartedContainer{
+
+    width: 1440px;
+     margin: 0 auto;
+    background-color: #4a42f4;
+    padding: 90px 48px 112px 48px;
+
+    display: flex;
+}
+
+.icon{
+
+    color: #fff;
+
+    width: 129px;
+    height: 95px;
+}
+
+.text {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 120px;
+    line-height: 1;
+    color: #fff;
+    white-space: nowrap;
+}
+
+.iconContainer{
+    display: flex;
+    align-items: flex-start;
+
+    width: 129px;
+    height: 240px;
+}
+
+.textPart {
+    width: 627px;
+    height: 240px;
+    display: block;
+}
