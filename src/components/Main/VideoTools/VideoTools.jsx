@@ -30,11 +30,12 @@ const VideoTools = () => {
           </div>
 
           <div className={css.videoPart}>
-              <iframe
-                  src="https://youtu.be/4bNTq-LRXnY?si=EWCDpILTp69GXOKE" frameborder="0"
-                  width='872'
-                  height='496'
-              >
+            <iframe
+                title="YouTube video"
+                src="https://youtu.be/4bNTq-LRXnY?si=EWCDpILTp69GXOKE" frameborder="0" allowFullScreen
+                width='872'
+                height='496' 
+            >
               </iframe>
           </div>
           </div>
